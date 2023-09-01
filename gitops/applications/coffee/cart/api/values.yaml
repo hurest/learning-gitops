@@ -5,7 +5,7 @@ service:
     exposed: true
 image:
   repository: ghcr.io/hurest/coffee/cart/api
-  tag: rc-2293b62
+  tag: feature-86b62af
   pullPolicy: IfNotPresent
 env:
   - name: TZ
